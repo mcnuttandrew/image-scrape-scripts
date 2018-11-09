@@ -1,5 +1,10 @@
 ## SCRAPING GOOGLE IMAGES
 
+I needed to scrape google images for images for a class i'm taking so I'm compiling the various goings on that I used to get where I'm going here. <<<<<USE AT YOUR OWN RISKS>>>>>
+
+### LES GO
+
+
 -1. Install chromedriver however you do it (with mac it was brew cask)
 
 0. Start with this
